@@ -1,16 +1,59 @@
-## Hi there 👋
+# Olá! 👋 Eu sou José Pedro
 
-<!--
-**Pedro312777/Pedro312777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recém-formado em Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+💻 Desenvolvedor de Software apaixonado por criar soluções para Web, Mobile e Games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente busco minha primeira oportunidade como Desenvolvedor.
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 💻 Desenvolvedor focado em desenvolvimento de software.
+- 📱 Experiência com React Native, HTML, CSS e JavaScript.
+- 🎮 Desenvolvedor do projeto **UniceFight**.
+- 🌱 Sempre aprendendo novas tecnologias.
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
+- HTML
+- CSS
+- JavaScript
+
+
+### Frameworks e Ferramentas
+- React Native
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🎮 UniceFight
+Jogo de luta 2D desenvolvido como projeto de graduação.
+
+### 🥬 Sistema Hortifruti
+Sistema para gerenciamento de hortifruti, desenvolvido como projeto de graduação.
+
+### 🛒 Projeto Buy
+Sistema de vendas e compras de produtos para comerciantes e clientes locais, desenvolvido como projeto de graduação.
+
+### 📱 Aplicativos React Native
+Aplicações mobile desenvolvidas utilizando React Native, para fins de estudo.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/josepedro-dev/
+- Email: josepedrointeligencia@gmail.com
+
+---
+
+⭐ Obrigado por visitar meu perfil!
