@@ -38,7 +38,7 @@
 ### 🎮 UniceFight
 Jogo de luta 2D desenvolvido como projeto de graduação.
 
-### 🥬 Sistema Hortifruti
+### 🥬 FruitSystem
 Sistema para gerenciamento de hortifruti, desenvolvido como projeto de graduação.
 
 ### 🛒 Projeto Buy
