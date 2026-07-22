@@ -49,6 +49,12 @@ Aplicações mobile desenvolvidas utilizando React Native, para fins de estudo.
 
 ---
 
+## 💻🚀 Portfólio
+
+https://pedro312777.github.io/portfolio/
+
+---
+
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/josepedro-dev/
