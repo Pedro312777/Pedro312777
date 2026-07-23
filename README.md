@@ -50,6 +50,10 @@ Aplicações mobile desenvolvidos utilizando React Native, para fins de estudo.
 
 ## 💻🚀 Portfólio
 
+Acesse meu portfólio e conheça mais sobre mim e meus projetos na área de tecnologia! 🚀
+
+Explore minha trajetória, habilidades técnicas e projetos desenvolvidos com tecnologias como HTML5, CSS3, HTML5 Canvas, JavaScript, React Native e Expo.
+
 https://pedro312777.github.io/portfolio/
 
 ---
