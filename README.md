@@ -11,8 +11,7 @@
 ## 👨‍💻 Sobre mim
 
 - 💻 Desenvolvedor focado em desenvolvimento de software.
-- 📱 Experiência com React Native, HTML, CSS e JavaScript.
-- 🎮 Desenvolvedor do projeto **UniceFight**.
+- 📱 Experiência com HTML5, CSS3, JavaScript, HTML5 Canvas, React Native e Expo.
 - 🌱 Sempre aprendendo novas tecnologias.
 
 ---
@@ -20,8 +19,8 @@
 ## 🛠️ Tecnologias
 
 ### Linguagens
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 
 
@@ -42,10 +41,10 @@ Jogo de luta 2D desenvolvido como projeto de graduação.
 Sistema para gerenciamento de hortifruti, desenvolvido como projeto de graduação.
 
 ### 🛒 Projeto Buy
-Sistema de vendas e compras de produtos para comerciantes e clientes locais, desenvolvido como projeto de graduação.
+Sistema de vendas e compras de produtos para consumidores e comerciantes de uma determinada região, desenvolvido como projeto de graduação.
 
 ### 📱 Aplicativos React Native
-Aplicações mobile desenvolvidas utilizando React Native, para fins de estudo.
+Aplicações mobile desenvolvidos utilizando React Native, para fins de estudo.
 
 ---
 
