@@ -25,12 +25,12 @@
 - React Native
 - Expo
 - React
-- Express
-- Axios
 - Vite
+- Axios
 - Node.js
+- Express
 - PostgreSQL
-- API REST
+- REST API
 - Git
 - GitHub
 ---
@@ -46,8 +46,11 @@ Sistema para gerenciamento de hortifruti, desenvolvido como projeto de graduaç�
 ### 🛒 Projeto Buy
 Sistema de vendas e compras de produtos para consumidores e comerciantes de uma determinada região, desenvolvido como projeto de graduação.
 
+### 🖥️ Aplicativos Web
+Aplicações web desenvolvidas utilizando HTML5, CSS3, JavaScript, React, Vite, Axios, Node.js, Express, PostgreSQL, REST API, para fins de estudo.
+
 ### 📱 Aplicativos React Native
-Aplicações mobile desenvolvidos utilizando React Native, para fins de estudo.
+Aplicações mobile desenvolvidas utilizando React Native, para fins de estudo.
 
 ---
 
