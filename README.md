@@ -17,20 +17,27 @@
 
 ---
 
-## 🛠️ Tecnologias
-
-### Linguagens
+Linguagens
+- JavaScript
 - HTML5
 - CSS3
-- JavaScript
-
-
-### Frameworks e Ferramentas
+Frameworks e Bibliotecas
+- React
 - React Native
+- Express
+- Axios
+Ferramentas e Tecnologias
+- Vite
+- Node.js
 - Git
 - GitHub
 - VS Code
-
+Banco de Dados
+- PostgreSQL
+Conceitos
+- API REST
+- CRUD
+- Arquitetura em camadas
 ---
 
 ## 🚀 Projetos em destaque
