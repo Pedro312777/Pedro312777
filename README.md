@@ -17,24 +17,24 @@
 
 ---
 
-## Linguagens
+### Linguagens
 - JavaScript
 - HTML5
 - CSS3
-## Frameworks e Bibliotecas
+### Frameworks e Bibliotecas
 - React
 - React Native
 - Express
 - Axios
-## Ferramentas e Tecnologias
+### Ferramentas e Tecnologias
 - Vite
 - Node.js
 - Git
 - GitHub
 - VS Code
-## Banco de Dados
+### Banco de Dados
 - PostgreSQL
-## Conceitos
+### Conceitos
 - API REST
 - CRUD
 - Arquitetura em camadas
