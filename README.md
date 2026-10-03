@@ -33,7 +33,6 @@
 - API REST
 - Git
 - GitHub
-- VS Code
 ---
 
 ## 🚀 Projetos em destaque
