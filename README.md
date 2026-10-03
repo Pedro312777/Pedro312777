@@ -33,7 +33,6 @@
 - REST API
 - Git
 - GitHub
-### Conceitos
 - CRUD
 - Arquitetura em camadas
 ---
