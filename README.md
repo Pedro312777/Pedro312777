@@ -47,7 +47,7 @@ Sistema para gerenciamento de hortifruti, desenvolvido como projeto de graduaç�
 Sistema de vendas e compras de produtos para consumidores e comerciantes de uma determinada região, desenvolvido como projeto de graduação.
 
 ### 🖥️ Aplicativos Web
-Aplicações web desenvolvidas utilizando HTML5, CSS3, JavaScript, React, Vite, Axios, Node.js, Express, PostgreSQL, REST API, para fins de estudo.
+Aplicações web desenvolvidas utilizando HTML5, CSS3, JavaScript, React, Vite, Axios, Node.js, Express, PostgreSQL, REST API, para fins de estudo e aprimoramento.
 
 ### 📱 Aplicativos React Native
 Aplicações mobile desenvolvidas utilizando React Native, para fins de estudo.
