@@ -11,7 +11,8 @@
 ## 👨‍💻 Sobre mim
 
 - 💻 Desenvolvedor focado em desenvolvimento de software.
-- 📱 Experiência com HTML5, CSS3, JavaScript, HTML5 Canvas, React Native e Expo.
+- 📱 Experiência com HTML5, CSS3, JavaScript, HTML5 Canvas, React Native, Expo, Git e GitHub.
+- 📚 Estudando React, Vite, Axios, Node.js, Express, PostgreSQL e REST API.
 - 🌱 Sempre aprendendo novas tecnologias.
 
 ---
