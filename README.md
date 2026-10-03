@@ -33,7 +33,10 @@
 - REST API
 - Git
 - GitHub
+- CRUD
+- Arquitetura em camadas
 ---
+
 
 ## 🚀 Projetos em destaque
 
