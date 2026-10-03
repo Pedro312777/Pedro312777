@@ -17,27 +17,23 @@
 
 ---
 
-### Linguagens
-- JavaScript
+### Habilidades
 - HTML5
 - CSS3
-### Frameworks e Bibliotecas
-- React
+- JavaScript
+- HTML5 Canvas
 - React Native
+- Expo
+- React
 - Express
 - Axios
-### Ferramentas e Tecnologias
 - Vite
 - Node.js
+- PostgreSQL
+- API REST
 - Git
 - GitHub
 - VS Code
-### Banco de Dados
-- PostgreSQL
-### Conceitos
-- API REST
-- CRUD
-- Arquitetura em camadas
 ---
 
 ## 🚀 Projetos em destaque
